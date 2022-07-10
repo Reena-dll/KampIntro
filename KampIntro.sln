@@ -27,11 +27,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{F227EC74-7787-4540-BA3F-74C830F4B294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{C1F4BEE3-5D8B-481C-AF3D-C0B23F4B2CBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{C1F4BEE3-5D8B-481C-AF3D-C0B23F4B2CBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar2", "Koleksiyonlar2\Koleksiyonlar2.csproj", "{1EFF1F26-E014-4A11-9019-44D4C9CE98B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar2", "Koleksiyonlar2\Koleksiyonlar2.csproj", "{1EFF1F26-E014-4A11-9019-44D4C9CE98B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{D9BE0931-4D01-491A-A542-B6244FCFB0A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{D9BE0931-4D01-491A-A542-B6244FCFB0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{97DB90B0-4EFC-498B-A9A6-7CBFED1E5776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{A19CCA01-15C2-456A-A5C8-513A8F0A84D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{82729C55-9378-4094-A91B-053691B22A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{E037AA38-3D17-453B-957D-04CDEBCBC652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{6155B157-5823-49CF-8AC2-6B72035FE7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{2333CDC4-2491-4EA3-A160-196B9BA04988}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +111,30 @@ Global
 		{D9BE0931-4D01-491A-A542-B6244FCFB0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9BE0931-4D01-491A-A542-B6244FCFB0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9BE0931-4D01-491A-A542-B6244FCFB0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DB90B0-4EFC-498B-A9A6-7CBFED1E5776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DB90B0-4EFC-498B-A9A6-7CBFED1E5776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DB90B0-4EFC-498B-A9A6-7CBFED1E5776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DB90B0-4EFC-498B-A9A6-7CBFED1E5776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19CCA01-15C2-456A-A5C8-513A8F0A84D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19CCA01-15C2-456A-A5C8-513A8F0A84D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19CCA01-15C2-456A-A5C8-513A8F0A84D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19CCA01-15C2-456A-A5C8-513A8F0A84D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82729C55-9378-4094-A91B-053691B22A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82729C55-9378-4094-A91B-053691B22A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82729C55-9378-4094-A91B-053691B22A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82729C55-9378-4094-A91B-053691B22A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E037AA38-3D17-453B-957D-04CDEBCBC652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E037AA38-3D17-453B-957D-04CDEBCBC652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E037AA38-3D17-453B-957D-04CDEBCBC652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E037AA38-3D17-453B-957D-04CDEBCBC652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6155B157-5823-49CF-8AC2-6B72035FE7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6155B157-5823-49CF-8AC2-6B72035FE7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6155B157-5823-49CF-8AC2-6B72035FE7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6155B157-5823-49CF-8AC2-6B72035FE7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2333CDC4-2491-4EA3-A160-196B9BA04988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2333CDC4-2491-4EA3-A160-196B9BA04988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2333CDC4-2491-4EA3-A160-196B9BA04988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2333CDC4-2491-4EA3-A160-196B9BA04988}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

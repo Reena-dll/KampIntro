@@ -33,7 +33,7 @@ namespace Dictionary
             Console.WriteLine("Toplam Gün Sayısı: "+weekdays2.Length);
             foreach (var item in weekdays2.Items)
             {
-                Console.WriteLine("{0}.Gün = {1}", item);
+                Console.WriteLine("{0}.Gün = ", item);
             }
 
 
