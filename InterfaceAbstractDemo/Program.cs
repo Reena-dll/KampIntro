@@ -10,7 +10,7 @@ namespace InterfaceAbstractDemo
         static void Main(string[] args)
         {
             BaseCustomerManager customerManager = new NeroCustomerManager();
-            customerManager.Save(new Customer { DateOfBirth = new DateTime(1999, 10, 13), FirstName = "Oğuzhan", LastName = "Sadıkoğlu", NationaltyId = "62068228598" });
+            customerManager.Save(new Customer { DateOfBirth = new DateTime(1999, 10, 13), FirstName = "Oğuzhan", LastName = "Sadıkoğlu", NationaltyId = "321321321" });
 
         }
     }
