@@ -8,7 +8,15 @@ namespace EntityFrameworkDemo
         static void Main(string[] args)
         {
             //GetAll();
-            GetProductsByCategory(1);
+           //GetProductsByCategory(1);
+
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                foreach (var item in context.Personels)
+                {
+                    Console.WriteLine(item.Name+" "+ item.Surname);
+                }
+            }
             Console.ReadLine();
         }
 
