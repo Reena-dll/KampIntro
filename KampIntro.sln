@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameSalesSimulation", "GameSalesSimulation\GameSalesSimulation.csproj", "{3CEC7799-F640-4562-B017-AEAAA3DB1ACF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{AB07C913-2560-4909-B5F8-F90D0CC334A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "LinqProject\LinqProject.csproj", "{AB07C913-2560-4909-B5F8-F90D0CC334A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{9E88F465-DA9C-43B8-BAB1-57C4696C8310}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{AB07C913-2560-4909-B5F8-F90D0CC334A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB07C913-2560-4909-B5F8-F90D0CC334A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB07C913-2560-4909-B5F8-F90D0CC334A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E88F465-DA9C-43B8-BAB1-57C4696C8310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E88F465-DA9C-43B8-BAB1-57C4696C8310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E88F465-DA9C-43B8-BAB1-57C4696C8310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E88F465-DA9C-43B8-BAB1-57C4696C8310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
